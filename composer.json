@@ -1,4 +1,5 @@
 {
+    "name": "amzn/creatorsapi-php-sdk",
     "version": "1.1.1",
     "description": "CreatorsAPI 1.1.1 PHP SDK",
     "keywords": [
